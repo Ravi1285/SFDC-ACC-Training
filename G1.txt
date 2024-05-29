@@ -1,2 +1,3 @@
 Hi 
 This is my First GIT file
+This is from GIT my Repository 
